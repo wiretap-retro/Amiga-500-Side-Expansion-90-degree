@@ -1,4 +1,4 @@
-# Amiga-500-Side-Expansion-90-degree
+# Amiga 500 Side Expansion 90-degree
 A simple 90-degree side expansion slot adapter that I'm using in my Amiga 500 tower build.
 
 ![pic](pic.jpg)
