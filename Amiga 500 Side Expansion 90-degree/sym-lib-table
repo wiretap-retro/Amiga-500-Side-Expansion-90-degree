@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name A500-Side-90-rescue)(type Legacy)(uri ${KIPRJMOD}/A500-Side-90-rescue.lib)(options "")(descr ""))
+)
